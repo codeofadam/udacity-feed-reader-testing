@@ -16,11 +16,11 @@ The project code base is from Udacity.com, which has contained the first test "R
 
 ## Other test written by me
 
-### "The Menu" test suite
+"The Menu" test suite
 
-### "Initial Entries" test suite
+"Initial Entries" test suite
 
-### "New Feed Selection" test suite
+"New Feed Selection" test suite
 
 ## Built With
 
